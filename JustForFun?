@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Custom Crocs Shop</title>
+  <title>Mae Prints Design</title>
   <link
     href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css"
     rel="stylesheet"
@@ -93,12 +93,12 @@
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         <article class="bg-white rounded-2xl shadow-md overflow-hidden">
           <img
-            src="https://via.placeholder.com/400x250?text=Galaxy+Unicorn"
-            alt="Galaxy Unicorn Custom Crocs"
+            src="https://147236516.cdn6.editmysite.com/uploads/1/4/7/2/147236516/MFVN6L23MA3CCRYTLVU4WDZH.png?width=2560&optimize=medium"
+            alt="Winnie the Pooh Custom Crocs"
             class="w-full h-48 object-cover"
           />
           <div class="p-4">
-            <h3 class="font-semibold text-lg">Galaxy Unicorn</h3>
+            <h3 class="font-semibold text-lg">Winnie The Pooh</h3>
           </div>
         </article>
         <article class="bg-white rounded-2xl shadow-md overflow-hidden">
